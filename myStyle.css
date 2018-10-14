@@ -10,6 +10,7 @@
 	width: 100%;
 	height: 18px;
 	background-color: #c4170c;
+	margin-bottom: 50px;
 }
 
 /* Fechamento da NAVBAR */
@@ -18,7 +19,7 @@
 /* Inicio do container */
 
 .container_Ni {
-	width: 793.33px;
+	width: 790px;
 }
 
 
@@ -30,31 +31,263 @@
 	height: 6px;
 	background-color: #34c771;
 }
-/* / principal */
+
+.principal {
+	
+}
+
+.cabecalho {
+	color: #999;
+	font-family: sans-serif;
+}
+
+.title-1 {
+	font-size: 3rem;
+    letter-spacing: -.20625rem;
+    line-height: 3rem;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.principal-porcent {
+	color: #666;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: -.08125rem;
+    line-height: 1.25rem;
+    font-family: sans-serif;
+    float: right;
+}
+
+.principal-result {
+	font-size: 1rem;
+    letter-spacing: -.03125rem;
+    color: #666;
+    line-height: 1.25rem;
+    font-family: sans-serif;
+}
+
+.principal-espaço {
+	margin: 15px 0px;
+}
+
+/* Fechamento de principal */
 
 
+/* Fechamento de hr */
 
 
 /* Partidos */
 
+/* Título */
+
+.titulo {
+	margin-top: 30px;
+    margin-bottom: 10px;
+	font-size: 30px;
+	color: #333;
+    font-family: sans-serif;
+    letter-spacing: -.10625rem;
+    line-height: 1.75rem
+}
+
+/* Fechamento de título */
+
+.cartao {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.opacity {
+	opacity: 0.6;
+}
+
+img.imagem {
+	width: 62px;
+	height: 62px;
+	border-radius: 31px;
+	border: 1px solid #e5e5e5;
+}
+
+.div-img {
+	display: inline;
+}
+.corpo {
+	display: inline-block;
+}
+
+.T1 {
+	display: block;
+	color: #333;
+}
+
+.T2 {
+	display: block;
+	color: #999;
+}
+
+.candidato {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.porcentagem {
+	font-size: 20px;
+	float: right;
+	font-weight: 700;
+}
+
+.partido {
+	font-size: 15px;
+}
+
+.turno-2 {
+	font-size: 11px;
+	color: #34c771;
+	border: 1px solid #34c771;
+	border-radius: 30px;
+	padding: 0px 5px;
+}
+
+.votos {
+	font-size: 15px;
+	float: right;
+	position: relative;
+	left: 63px;
+}
+
+.ajuste {
+	position: relative;
+	left: 52px;
+}
+
+.corpo-barrinha {
+	width: 723.338px;
+	height: 4px;
+	background-color: #eaeaea;
+}
+
+.barrinha {
+	height: 4px;
+}
+
+.barrinha-green {
+	background-color: #34c771;
+}
+
+/* Presidentes */
+
+#votos-bolsonaro {
+	width: 46.03%;
+}
+
+#votos-haddad {
+	width: 29.28%;
+}
+
+.barrinha-gray {
+	background-color: #999;
+}
+
+#votos-ciro {
+	width: 12.47%;
+}
+
+#votos-alckmin {
+	width: 4.76%;
+}
+
+#votos-amoedo {
+	width: 2.50%;
+}
+
+#votos-daciolo {
+	width: 1.26%;
+}
+
+#votos-meirelles {
+	width: 1.20%;
+}
+
+#votos-marina {
+	width: 1%;
+}
+
+#votos-alvaro {
+	width: 0.80%;
+}
+
+#votos-boulos {
+	width: 0.58%;
+}
+
+#votos-vera {
+	width: 0.05%;
+}
+
+#votos-eymael {
+	width: 0.04%;
+}
+
+#votos-goulart {
+	width: 0.03%;
+}
+
+/* Fechamento de presidentes */
+
+/* Governadores */
+
+#votos-doria {
+	width: 31.77%;
+}
+
+#votos-marcio {
+	width: 21.53%;
+}
+
+#votos-skaf {
+	width: 21.09%;
+}
+
+#votos-luiz {
+	width: 12.66%;
+}
+
+#votos-major {
+	width: 3.69%;
+}
+
+#votos-chequer {
+	width: 3.32%;
+}
+
+#votos-tavares {
+	width: 3.21%;
+}
+
+#votos-lisete {
+	width: 2.51%;
+}
+
+#votos-claudio {
+	width: 0.14%;
+}
+
+#votos-toninho {
+	width: 0.08%;
+}
+
+#votos-candido {
+	width: 0%;
+}
+
+#votos-lilian {
+	width: 0%;
+}
+
+/* Fechamento de governadores */
+
+/* Fechamento de Partidos */
 
 
-
-/* / Partidos */
-
-/* Fechamento do container *
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Endereço para governador: https://g1.globo.com/politica/eleicoes/2018/sp/apuracao/governador.ghtml; */
-/* Endereço para presidente: https://g1.globo.com/politica/eleicoes/2018/apuracao/presidente.ghtml; */
+/* Fechamento do container */
