@@ -175,6 +175,10 @@ img.imagem {
 	background-color: #34c771;
 }
 
+.barrinha-gray {
+	background-color: #999;
+}
+
 /* Presidentes */
 
 #votos-bolsonaro {
@@ -183,10 +187,6 @@ img.imagem {
 
 #votos-haddad {
 	width: 29.28%;
-}
-
-.barrinha-gray {
-	background-color: #999;
 }
 
 #votos-ciro {
