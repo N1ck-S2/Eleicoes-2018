@@ -153,12 +153,17 @@ img.imagem {
 	font-size: 15px;
 	float: right;
 	position: relative;
-	left: 63px;
+	left: 68px;
 }
 
 .ajuste {
 	position: relative;
-	left: 52px;
+	left: 57px;
+}
+
+#ajuste-individual {
+	position: relative;
+	left: 69px;
 }
 
 .corpo-barrinha {
@@ -288,6 +293,5 @@ img.imagem {
 /* Fechamento de governadores */
 
 /* Fechamento de Partidos */
-
 
 /* Fechamento do container */
